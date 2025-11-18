@@ -1,9 +1,9 @@
 <h1>Hi, I'm Xavier! <br/><a href="https://github.com/joshmadakor1">Analyst</a>, <a href="https://www.linkedin.com/in/XavierWoodruff/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>Data Analyst Projects:</h2>
+<h2>Data Analyst Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Project: Best time to sell your house in Connecticut</b>
+  - [Project](https://github.com/Xavierwoodruff/Real-Estate-ETL/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>SQL (PostgreSQL)</b>
