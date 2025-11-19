@@ -5,7 +5,7 @@
 - <b>Project: Connecticut Real Estate KPI Dashboard (SQL + Power BI)</b>
   - [Project](https://github.com/Xavierwoodruff/Real-Estate-ETL/blob/main/README.md)
 - <b>Project: Uber KPI Dashboard (SQL + Power BI)</b>
-  - [Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Project](https://github.com/Xavierwoodruff/Uber-ETL)
 - <b>SQL (PostgreSQL)</b>
   - [Table Creation](https://github.com/joshmadakor1/AD_PS)
   - [Subqueries](https://github.com/joshmadakor1/Jwipe.PowerShell)
