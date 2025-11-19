@@ -9,7 +9,7 @@
 - <b>SQL (PostgreSQL)</b>
   - [Table Creation](https://github.com/joshmadakor1/AD_PS)
   - [Subqueries](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [CTE](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Common Table Expression (CTE)](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Excel</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
