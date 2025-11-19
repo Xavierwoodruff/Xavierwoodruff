@@ -1,4 +1,4 @@
-<h1>Hi, I'm Xavier! <br/><a href="https://github.com/joshmadakor1">Analyst</a>, <a href="https://www.linkedin.com/in/XavierWoodruff/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Xavier! <br/><a href="https://github.com/Xavierwoodruff">Analyst</a>, <a href="https://www.linkedin.com/in/XavierWoodruff/">Data Analyst</a></h1>
 
 <h2>Data Analyst Projects</h2>
 
