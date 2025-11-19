@@ -2,7 +2,7 @@
 
 <h2>Data Analyst Projects</h2>
 
-- <b>Project: Best time to sell your house in Connecticut</b>
+- <b>Project: Connecticut Real Estate KPI Dashboard (SQL + Power BI)</b>
   - [Project](https://github.com/Xavierwoodruff/Real-Estate-ETL/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
