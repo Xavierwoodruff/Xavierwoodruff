@@ -3,9 +3,9 @@
 <h2>Data Analyst Projects</h2>
 
 - <b>Project: Connecticut Real Estate KPI Dashboard (SQL + Power BI)</b>
-  - [Project #1](https://github.com/Xavierwoodruff/Real-Estate-ETL/blob/main)
+  - [Project: #1](https://github.com/Xavierwoodruff/Real-Estate-ETL/blob/main)
 - <b>Project: Uber KPI Dashboard (SQL + Power BI)</b>
-  - [Project #2](https://github.com/Xavierwoodruff/Uber-ETL/blob/main)
+  - [Project: #2](https://github.com/Xavierwoodruff/Uber-ETL/blob/main)
 - <b>SQL (PostgreSQL)</b>
   - [Table Creation](https://github.com/joshmadakor1/AD_PS)
   - [Subqueries](https://github.com/joshmadakor1/Jwipe.PowerShell)
