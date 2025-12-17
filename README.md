@@ -26,6 +26,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+- <b>RESUME</b>
+
+  - [Project: Uber](https://github.com/Xavierwoodruff/Uber-ETL/blob/main)
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
