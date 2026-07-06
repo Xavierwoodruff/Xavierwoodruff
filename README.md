@@ -13,9 +13,11 @@
 - <b>SQL (PostgreSQL)</b>
 
   - 🚧 Under Construction 🚧
+ 
 - <b>Excel</b>
 
-  - 🚧 Under Construction 🚧
+  - [Project: Uber](https://github.com/Xavierwoodruff/Excel-Application-Tracker)
+  
 - <b>Power BI</b>
 
   - 🚧 Under Construction 🚧
