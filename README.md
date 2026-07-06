@@ -16,7 +16,7 @@
  
 - <b>Excel</b>
 
-  - [Project: Uber](https://github.com/Xavierwoodruff/Excel-Application-Tracker)
+  - [Project: Application Tracker](https://github.com/Xavierwoodruff/Excel-Application-Tracker)
   
 - <b>Power BI</b>
 
