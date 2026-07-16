@@ -9,25 +9,26 @@
 - <b>Project: Uber KPI Dashboard (SQL + Power BI)</b>
 
   - [Project: Uber](https://github.com/Xavierwoodruff/Uber-ETL/blob/main)
-    
+
+
+- <b>Excel</b>
+
+  - [Project: Application Tracker](https://github.com/Xavierwoodruff/Excel-Application-Tracker)
+ 
 - <b>SQL (PostgreSQL)</b>
 
   - 🚧 Under Construction 🚧
  
-- <b>Excel</b>
-
-  - [Project: Application Tracker](https://github.com/Xavierwoodruff/Excel-Application-Tracker)
-  
 - <b>Power BI</b>
 
   - 🚧 Under Construction 🚧
-
+<!--
 <h2>🛠️ Hobby Projects</h2>
 
 🚧 Under Construction 🚧
 
 <h2> 🤳 Connect with me:</h2>
-
+-->
 - <b>RESUME</b>
 
   - [Xavier Woodruff](https://github.com/Xavierwoodruff/Resume)
